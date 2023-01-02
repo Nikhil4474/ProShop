@@ -1,0 +1,19 @@
+{
+  "name": "mern-ecommerce-from-scratch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikhil4474/ProShop.git"
+  },
+  "author": "Nikhil Inuganti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikhil4474/ProShop/issues"
+  },
+  "homepage": "https://github.com/Nikhil4474/ProShop#readme"
+}

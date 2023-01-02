@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Nikhil4474/ProShop/issues"
   },
-  "homepage": "https://github.com/Nikhil4474/ProShop#readme"
+  "homepage": "https://github.com/Nikhil4474/ProShop#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
